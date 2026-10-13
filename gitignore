@@ -1,0 +1,17 @@
+# Ignore raw dataset files
+raw/
+
+# Optional: ignore nested raw-data folders too
+data/raw/
+
+# Power BI temporary / backup files
+*.tmp
+*.bak
+~$*
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# macOS metadata
+.DS_Store
